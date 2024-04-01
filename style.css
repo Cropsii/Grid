@@ -20,7 +20,7 @@ h2 {
 }
 .shape {
     box-shadow: 20px 20px 40px hsl(0, 0%, 81%);
-    min-width: 380px;
+    min-width: 300px;
     color: white;
     gap: 1.5rem;
     display: flex;
